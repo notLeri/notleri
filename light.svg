@@ -85,7 +85,7 @@
 <text x="448" y="215.0" class="key row" style="animation-delay:0.84s">Backend</text>
 <text x="540" y="215.0" class="val row" style="animation-delay:0.84s">gRPC · GraphQL · REST · FastAPI · Flask · Node.js</text>
 <text x="448" y="232.5" class="key row" style="animation-delay:0.91s">AI</text>
-<text x="540" y="232.5" class="val row" style="animation-delay:0.91s">LLMs · RAG · LangChain · Vector DBs</text>
+<text x="540" y="232.5" class="val row" style="animation-delay:0.91s">LLMs · RAG · LangGraph · Vector DBs</text>
 <text x="448" y="250.0" class="key row" style="animation-delay:0.98s">Infra</text>
 <text x="540" y="250.0" class="val row" style="animation-delay:0.98s">AWS Lambda · GCP · Kubernetes · Kafka · Prometheus</text>
 <text x="448" y="267.5" class="key row" style="animation-delay:1.05s">Data</text>
@@ -100,10 +100,10 @@
 <text x="448" y="382.5" class="key row" style="animation-delay:1.47s">LHM.gg</text>
 <text x="540" y="382.5" class="wrn row" style="animation-delay:1.47s">HUD for cybersport live stream</text>
 <text x="540" y="400.0" class="mut row" style="animation-delay:1.54s">Self managing project, Custom “turnkey” implementation</text>
-<text x="448" y="427.5" class="row" style="animation-delay:1.61s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 6   ·   stars 0   ·   followers 5</tspan></text>
+<text x="448" y="427.5" class="row" style="animation-delay:1.61s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 7   ·   stars -   ·   followers 5</tspan></text>
 <text x="448" y="455.0" class="sec row" style="animation-delay:1.68s">~/reach</text>
 <text x="448" y="472.5" class="key row" style="animation-delay:1.75s">In</text>
 <text x="540" y="472.5" class="acc row" style="animation-delay:1.75s">https://www.linkedin.com/in/stan-aki-go-ai/</text>
 <text x="30" y="596" class="row" style="animation-delay:1.92s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to Software Engineer / Fullstack Engineer roles</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 24 Oct 2026, 18:19 IST</text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 24 Oct 2026, 20:40 IST</text>
 </svg>

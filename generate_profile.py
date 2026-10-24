@@ -55,7 +55,7 @@ INFO: Final[list[InfoRow]] = [
     InfoRow(SECTION, "~/stack"),
     InfoRow("Lang", "Golang · Python · JavaScript · SQL"),
     InfoRow("Backend", "gRPC · GraphQL · REST · FastAPI · Flask · Node.js"),
-    InfoRow("AI", "LLMs · RAG · LangChain · Vector DBs"),
+    InfoRow("AI", "LLMs · RAG · LangGraph · Vector DBs"),
     InfoRow("Infra", "AWS Lambda · GCP · Kubernetes · Kafka · Prometheus"),
     InfoRow("Data", "PostgreSQL · DynamoDB · MongoDB · Redis · BigQuery"),
     InfoRow(BLANK),
