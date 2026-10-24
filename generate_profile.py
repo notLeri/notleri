@@ -48,14 +48,14 @@ class InfoRow(NamedTuple):
 INFO: Final[list[InfoRow]] = [
     InfoRow(HEADER, "Stanislav Akimov"),
     InfoRow(RULE),
-    InfoRow("Role", "Senior Backend Developer @ Oddin.gg"),
+    InfoRow("Role", "Senior Software Engineer @ Oddin.gg"),
     InfoRow("Edu", "B.Tech IT, NSU  ·  Class of 2019"),
     InfoRow("Focus", "Backend Engineering  ·  Highload, Microservices", "accent"),
     InfoRow(BLANK),
     InfoRow(SECTION, "~/stack"),
     InfoRow("Lang", "Golang · Python · JavaScript · SQL"),
     InfoRow("Backend", "gRPC · GraphQL · REST · FastAPI · Flask · Node.js"),
-    InfoRow("AI", "LLMs · RAG · LangChain · CrewAI · Vector DBs"),
+    InfoRow("AI", "LLMs · RAG · LangChain · Vector DBs"),
     InfoRow("Infra", "AWS Lambda · GCP · Kubernetes · Kafka · Prometheus"),
     InfoRow("Data", "PostgreSQL · DynamoDB · MongoDB · Redis · BigQuery"),
     InfoRow(BLANK),
@@ -70,7 +70,7 @@ INFO: Final[list[InfoRow]] = [
     InfoRow(STATS),
     InfoRow(BLANK),
     InfoRow(SECTION, "~/reach"),
-    InfoRow("In", "https://www.linkedin.com/in/stanislav-aki/", "accent"),
+    InfoRow("In", "https://www.linkedin.com/in/stan-aki-go-ai/", "accent"),
 ]
 
 
