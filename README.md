@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/notLeri/notLeri/master/profile-badge.png)]()
+[![](https://raw.githubusercontent.com/notLeri/notLeri/main/profile-badge.png)]()
 
 <div align="center">
 
